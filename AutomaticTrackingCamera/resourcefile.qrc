@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>background/GRAY.jpg</file>
+        <file>background/Camera.jpg</file>
+        <file>background/up.jpg</file>
+        <file>background/right.jpg</file>
+        <file>background/down.jpg</file>
+        <file>background/left.jpg</file>
+        <file>background/zin.jpg</file>
+        <file>background/zout.jpg</file>
+        <file>background/stopTracking.jpg</file>
+        <file>background/strat.jpg</file>
+        <file>background/stop.jpg</file>
+        <file>background/18057.png</file>
+        <file>background/4469037_195844400109_2.jpg</file>
+        <file>background/ptz.jpg</file>
+    </qresource>
+</RCC>
